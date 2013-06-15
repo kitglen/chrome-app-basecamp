@@ -3,11 +3,11 @@
     "description": "Provides quick access to your Basecamp account.",
     "manifest_version": 2,
     "version":"2.1",
+    "options_page": "options.html"
     "background_page" : "main.html",
     "browser_action": {
     "default_icon": "icon_16.png",
   },
     "permissions": 
      ["tabs"]
-    "options_page": "options.html"
 }
